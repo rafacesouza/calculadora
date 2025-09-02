@@ -13,6 +13,12 @@ O objetivo é servir como prática inicial de programação, ajudando a consolid
 - ✔️ Interface simples (terminal ou web)
 
 ## :hammer_and_wrench: Tecnologias utilizadas
-:black_medium_square: Pyton
+:large_orange_diamond: Pyton
 
-:black_medium_square: Java
+:large_orange_diamond: Java
+
+## :books: Aprendizados
+O projeto proporciona aprendizado prático em conceitos essenciais de programação, como:
+- Manipulação de entradas e saídas
+- Estruturas de decisão
+- Organização de código em funções
